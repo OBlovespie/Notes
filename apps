@@ -42,5 +42,8 @@ unimatrix
 wl-copy
 hyprpicker
 hyprlock
+brightnessctl
+xdg-desktop-portal-hyprland
+gnome-polkit
 
 
